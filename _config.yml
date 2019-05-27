@@ -1,5 +1,5 @@
 # Site settings
-title: Blog
+title: you and me
 SEOTitle: Zjmm and Fxl | Blog for us
 header-img: img/post-bg-desk.jpg
 email: xiaolongfan@stu.xidian.edu.cn
@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Zjmm"
 url: "http://xlfzjmm.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xlfzjmm/xlfzjmm.github.io.git" # you code repository
+github_repo: "https://github.com/xlfzjmm/xlfzjmm.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
