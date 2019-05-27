@@ -11,8 +11,8 @@ github_repo: "https://github.com/xlfzjmm/xlfzjmm.github.io" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar-g     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Happy birthday！"
+# sidebar-avatar: /img/avatar-g     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
